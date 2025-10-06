@@ -8,14 +8,14 @@
 
 ## 📖 Project Overview 
 
-This project explores how Generative AI and Large Language Models (LLMs) are transforming cybersecurity while introducing potential risks such as prompt injection, data leakage, and adversarial attacks. It implements the Lightweight LLM Security Evaluation and Mitigation Framework (LSEMF) - A Python-based system designed to detect, mitigate, and secure LLM interactions in cybersecurity applications.
+This project explores how Generative AI and Large Language Models (LLMs) are transforming cybersecurity while introducing potential risks such as prompt injection, data leakage, and adversarial attacks. It implements the Lightweight LLM Security Evaluation and Mitigation Framework (LSEMF) - A Python based system designed to detect, mitigate, and secure LLM interactions in cybersecurity applications.
 
 ---
 
 ## 🔒 Key Features
 
 - Prompt Filtering Module:
-Blocks malicious or unsafe inputs before they reach the LLM.
+Detects and blocks malicious or unsafe inputs before they reach the LLM.
 
 - Retrieval-Based Reinforcement Module:
 Enhances model reliability using context retrieval from a verified knowledge base.
